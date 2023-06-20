@@ -63,6 +63,9 @@
 /* small */
 @media screen and (min-width:767px) {
 
+    .justify-content-center-sm {
+        justify-content: center;
+    }
 
     .col-sm-1 {
         flex-basis: calc(100% / 12);
@@ -127,6 +130,9 @@
 
 /* medium */
 @media screen and (min-width:992px) {
+    .justify-content-center-md {
+        justify-content: center;
+    }
 
     .col-md-1 {
         flex-basis: calc(100% / 12);
@@ -191,6 +197,9 @@
 
 /* large */
 @media screen and (min-width:1170px) {
+    .justify-content-center-lg {
+        justify-content: center;
+    }
 
     .col-lg-1 {
         flex-basis: calc(100% / 12);
