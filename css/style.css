@@ -40,3 +40,11 @@ h2 {
     flex-basis: 0;
     max-width: 100%;
 }
+
+.innest-column .inside-col {
+    padding: 1rem;
+}
+
+section {
+    margin-bottom: 30px;
+}
